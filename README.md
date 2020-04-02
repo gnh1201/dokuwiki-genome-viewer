@@ -1,2 +1,2 @@
-# dokuwiki-gnome-viewer
-dokuwiki-gnome-viewer
+# dokuwiki-genome-viewer
+Docuwiki Genome Sequnce (A, T, C, G) Viewer
