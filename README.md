@@ -1,5 +1,8 @@
 # dokuwiki-genome-viewer
-Docuwiki Genome Sequnce (A, T, C, G) Viewer
+Dokuwiki Genome Sequence (FastA and others) viewer
+
+## demo
+- https://catswords.info/seq:test2
 
 ## Contact us
-- support@exts.kr
+- Go Namhyeon <gnh1201@gmail.com>
