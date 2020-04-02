@@ -1,0 +1,7 @@
+base    msaviewer
+author  Go Namhyeon
+email   gnh1201@gmail.com
+date    2020-03-20
+name    MSAViewer
+desc    MSA BioJS Sequence Viewer
+url     https://catswords.info
