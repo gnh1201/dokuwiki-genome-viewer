@@ -93,7 +93,7 @@ class syntax_plugin_msaviewer extends DokuWiki_Syntax_Plugin {
 
             if(typeof msa == 'undefined') {
                 var script = document.createElement('script');
-                script.src = "https://catswords.info/lib/scripts/msa.custom.js";
+                script.src = "https://exts.kr/assets/js/msa.custom.js";
                 document.head.appendChild(script);
                 script.onload = onload;
             }
