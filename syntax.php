@@ -62,7 +62,7 @@ class syntax_plugin_msaviewer extends DokuWiki_Syntax_Plugin {
         $R->doc .= <<<EOF
         <a href="javascript:msaviewer_{$viewer_id}('{$viewer_uri}')">[view]</a>
 
-        <script src="https://catswords.info/lib/scripts/msa.custom.js"></script>
+        <script src="https://exts.kr/assets/js/msa.custom.js"></script>
         <script>
         function msaviewer_{$viewer_id}(uri) {
             var onload = function() {
